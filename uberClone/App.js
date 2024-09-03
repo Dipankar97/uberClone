@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Uber Clone</Text>
+      <Text>Uber Clone Starting ....</Text>
       <StatusBar style="auto" />
     </View>
   );
